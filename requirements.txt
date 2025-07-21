@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+prefixspan
+networkx
+scikit-learn
+pickle
+umap-learn
+plotly
+shap
+gensim
+adjustText
+xgboost
+imbalanced-learn
